@@ -31,7 +31,7 @@
 
 ### use case diagram
 
-<img width="667" alt="image" src="https://github.com/moon-jun/redmine-electron/assets/84641360/723b13fa-ed4b-4ba2-aafe-5269ec493d04">
+<img width="628" alt="image" src="https://github.com/moon-jun/redmine-electron/assets/84641360/2c37c3e9-22cf-40f1-9744-cee9549d6966">
 
 크게 프로젝트 관리툴에 필요한 유즈케이스는 다음과 같다고 판단하였다.
 
