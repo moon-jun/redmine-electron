@@ -42,7 +42,7 @@
 
 ### system 구성도
 
-<img width="667" alt="image" src="https://github.com/moon-jun/redmine-electron/assets/84641360/dde1a4ff-5f0b-41f9-a47b-7d11ed4205f1">
+<img width="495" alt="image" src="https://github.com/moon-jun/redmine-electron/assets/84641360/975ecc72-f00a-436f-8a32-f82afa218f84">
 
 - 복잡한 프로그램이 아니므로 시스템 구성도는 가장 큰 범위에서 그리고 넘어간다. 
 
