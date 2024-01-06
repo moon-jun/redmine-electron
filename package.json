@@ -1,0 +1,15 @@
+{
+  "name": "redmine-electron",
+  "version": "1.0.0",
+  "description": "레드마인을 커스터마이징하고 데스크톱 어플리케이션으로 만들어 사용성을 용이하게 함",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^28.1.0"
+  }
+}
